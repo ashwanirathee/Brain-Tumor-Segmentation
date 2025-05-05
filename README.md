@@ -5,6 +5,7 @@ tool to work with on the mask after initial mask using Plotly and dash.
 
 It's supposed to help with the work of radiologists to reduce the error and reduce repetive work.
 
+Made with Python, OpenCV, Pytorch, NodeJS, Flask, Google Cloud Platform. MHacks'21 : Best Medical Hack category 
 
 ### Four Main Components:
 - `Model`: Holds details regarding the model that was trained and other details. Model is written in pytorch(UNET) and used figshare dataset.
