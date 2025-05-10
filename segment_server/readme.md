@@ -11,7 +11,7 @@ There is only essential endpoint that's is `/predict` that is supposed to be use
 ```
 cd segment_server
 pip install -r requirements.txt
-FLASK_ENV=development FLASK_APP=app.py flask run
+FLASK_ENV=development FLASK_APP=app.py flask run --port=5001
 ```
 
 That would hopefully output something like below:
