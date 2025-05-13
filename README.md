@@ -1,4 +1,4 @@
-# Computer Aided Diagnosis with Deep Learning on Brain Tumors
+# Computer Aided Diagnosis for Brain Tumors
 
 Annotater tool for Brain Tumor which creates the initial mask using deep learning and provides 
 tool to work with on the mask after initial mask using Plotly and dash.
