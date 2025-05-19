@@ -17,6 +17,9 @@ Made with Python, OpenCV, Pytorch, NodeJS, Flask, Google Cloud Platform.
 <!-- #### Plan of Action:
 <img src="./assets/planofaction.jpeg " alt="drawing"/> -->
 
+#### New Developments for CSE 244
+- Added a new model in models/llava-med-base.ipynb where intent is to use a large language model to help with the reasoning process and assist the doctor which utilizes the llava-med models [link](https://github.com/microsoft/LLaVA-Med)
+
 #### Example of the app:
 <img src="./assets/demo.png" alt="drawing" width="100%"/>
 
